@@ -8,7 +8,7 @@ make up.docker
 ### Сервис можно запустить локально бeз использования Docker:
 В сервисе используется **python 3.11**
 
-#### Подготовка виртуального окружения:
+#### Подготовка виртуального окружения (Linux):
 ```commandline
 python3.11 -m venv .venv
 source .venv/bin/activate
