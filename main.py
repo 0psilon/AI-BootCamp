@@ -1,9 +1,10 @@
 import logging
 
-from fastapi import FastAPI
 import uvicorn
+from fastapi import FastAPI
 
 from config import sentiment_pipeline
+
 app = FastAPI()
 logger = logging.getLogger(__name__)
 

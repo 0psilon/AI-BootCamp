@@ -1,6 +1,5 @@
 from transformers import pipeline
 
-
 model_path = 'tabularisai/multilingual-sentiment-analysis'
 device = 'cpu'
 
