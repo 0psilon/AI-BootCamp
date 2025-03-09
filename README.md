@@ -19,3 +19,5 @@ pip install -r requirements.txt
 ```commandline
 make up.local
 ```
+
+Проверить работу сервиса можно в swagger **http://0.0.0.0:8000/docs**, ручка **prediction/**
